@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lamser69
-i'm a newbie user in using GIT
-21 / 5.000
-Hasil terjemahan
-so i will study 
+Hey i'm Lamser, you can call me Lamser 👋, Glad to see you here! Check out this repository to learn more about me 🤓. You can also use it to make your awesome GitHub README ✨ (Don't Just Fork, Star Too 😅)
 
 <!---
 lamser69/lamser69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
